@@ -1,0 +1,98 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap");
+
+h1 {
+  font-family: Arial;
+}
+
+h2 {
+  font-family: "Trebuchet MS";
+}
+
+.texto {
+  font-family: "Victor Mono", "Comic Sans", sans-serif;
+}
+
+#paragrafo02 {
+  font-family: fantasy;
+}
+
+#estilo01 {
+  font-style: italic;
+}
+
+#estilo02 {
+  font-style: oblique;
+}
+
+#peso01 {
+  font-weight: bold;
+}
+
+#peso02 {
+  font-family: "Trebuchet MS";
+  font-weight: normal;
+}
+
+#fonte01 {
+  font-family: "Dancing Script", cursive;
+}
+
+.tamanho01 {
+    font-size: 24px;
+}
+
+.tamanho02 {
+    font-size: 24pt;
+}
+
+.tamanho03 {
+    font-size: 0.5em;
+}
+
+.tamanho04 {
+    font-size: 0.5rem;
+}
+
+.variante01 {
+    font-variant: small-caps;
+}
+
+.linha-altura {
+    line-height: 150%;
+}
+
+.espaco_letra {
+    letter-spacing: 30px;
+}
+
+.espaco_palavra {
+    word-spacing: 20px;
+}
+
+.alinhamento {
+    text-align: justify;
+}
+
+.decorado {
+    text-decoration: underline;
+    text-decoration-line: line-through;
+    text-decoration-color: rebeccapurple;
+    text-decoration-style: wavy;
+    text-decoration-thickness: 5px;
+}
+
+.identa {
+    text-indent: -10px;
+}
+
+.transforma {
+    text-transform: lowercase;
+}
+
+.sombra {
+    text-shadow: 100px 10px 2px red, ;
+}
+
+.lista01 {
+    list-style-type: upper-roman;
+}

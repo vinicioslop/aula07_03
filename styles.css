@@ -1,0 +1,31 @@
+.corsim {
+  color: rgb(255, 0, 153);
+}
+
+.corsim_hexadecimal {
+  color: #9f2de3;
+}
+
+.cor_rgba {
+  color: rgba(159, 45, 227, 0.5);
+  background-color: black;
+}
+
+body {
+  background-image: url(Logo_Estrela.png);
+  background-repeat: repeat;
+  background-attachment: scroll;
+}
+
+#bloquinho {
+  height: 200px;
+  width: 300px;
+
+  background: rgb(2, 0, 36);
+  background: radial-gradient(
+    circle,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(159, 45, 227, 1) 43%,
+    rgba(255, 0, 0, 1) 100%
+  );
+}
